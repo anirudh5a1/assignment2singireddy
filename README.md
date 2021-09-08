@@ -16,9 +16,10 @@ Houston is a large metropolis in **Texas**, extending to Galveston Bay. It’s c
     2. Reached to Miami.     
 
  ## Products to be Packed for enjoyment.
-    - Jacket.
-    - Footware.
-    - Mobile charger.
-    - Snacks.
-    - Backpack.
-    - Money.
+* Jacket.
+* Footware.
+* Mobile charger.
+    * Snacks.
+    * Backpack.
+    * Money.
+* clothes
