@@ -26,3 +26,16 @@ Houston is a large metropolis in **Texas**, extending to Galveston Bay. It’s c
 
 **[To know more about me](AboutMe.md)**
 
+---
+
+ This table shows location and Amount of Foods
+
+| *Food*                  | *Location*        | *Amount*           |
+| ----------------------- | ----------------- | ------------------ |
+| Biryani                 | Hyderabad         | 270 INR            |
+| Ice cream               | Kolkata           | 110 INR            |
+| idli                    | Bangalore         | 100 INR            |
+| Dosa                    | Mumbai            | 50 INR             |
+
+---
+
