@@ -39,3 +39,13 @@ Houston is a large metropolis in **Texas**, extending to Galveston Bay. It’s c
 
 ---
 
+# Quotes
+
+>Our greatest glory is not in never falling, but in rising every time we fall.
+
+>Magic is believing in yourself, if you can do that, you can make anything happen.
+
+>All our dreams can come true, if we have the courage to pursue them. 
+
+---
+
